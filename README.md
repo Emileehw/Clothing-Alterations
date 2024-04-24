@@ -1,1 +1,1 @@
-# Clothing-Alterations
+# Clothing Alterations Project
